@@ -11,7 +11,7 @@ This project showcases a clean frontend architecture using reusable React compon
 7.  Designed to be beginner-friendly while following good React development practices.
 
 ##  Preview
-
+https://amooayomikun.github.io/React-Static-Profile-Page/
 
 ##  Features
 1.  Modern responsive UI
